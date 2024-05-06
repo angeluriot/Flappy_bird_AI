@@ -1,4 +1,4 @@
-# Flappy Bird AI
+# 🐤 Flappy Bird AI
 
 ![Release](https://img.shields.io/badge/Release-1.0-blueviolet)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-0052cf)
@@ -18,13 +18,16 @@ This program is a neural network using an evolutionary algorithm to learn how to
 
 <br/>
 
-# Dependencies
+# 📋 Summary
 
-* SFML
+* **[📋 Summary](#-summary)**
+* **[✨ Features](#-features)**
+* **[📦 Dependencies](#-dependencies)**
+* **[🙏 Credits](#-credits)**
 
 <br/>
 
-# Features
+# ✨ Features
 
 * The learning algorithm will start as soon as you open the program :
 
@@ -36,6 +39,12 @@ This program is a neural network using an evolutionary algorithm to learn how to
 
 <br/>
 
-# Credits
+# 📦 Dependencies
+
+* **[SFML](https://www.sfml-dev.org/)**
+
+<br/>
+
+# 🙏 Credits
 
 * [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
