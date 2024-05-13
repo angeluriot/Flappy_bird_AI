@@ -23,6 +23,7 @@ This program is a neural network using an evolutionary algorithm to learn how to
 * **[📋 Summary](#-summary)**
 * **[✨ Features](#-features)**
 * **[📦 Dependencies](#-dependencies)**
+* **[🗓️ Releases](#%EF%B8%8F-releases)**
 * **[🙏 Credits](#-credits)**
 
 <br/>
@@ -42,6 +43,12 @@ This program is a neural network using an evolutionary algorithm to learn how to
 # 📦 Dependencies
 
 * **[SFML](https://www.sfml-dev.org/)**
+
+<br/>
+
+# 🗓️ Releases
+
+If you just want to test the program without editing the source code, go see the [**Releases**](https://github.com/angeluriot/Flappy_bird_AI/releases).
 
 <br/>
 
